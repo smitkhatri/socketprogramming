@@ -1,0 +1,19 @@
+GET /HelloWorld.html HTTP/1.0
+Host:192.168.0.14 
+Email: khatris1@hawkmail.newpaltz.edu 
+User-agent: Python 3 HTTP/1.0
+
+GET /HelloWorld.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: en-US,en;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+Accept-Encoding: gzip, deflate
+Host: 192.168.0.14:1223
+Connection: Keep-Alive
+
+
+GET /12324 HTTP/1.0
+Host:192.168.0.14 
+Email: khatris1@hawkmail.newpaltz.edu 
+User-agent: Python 3 HTTP/1.0
+
